@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View the deployed site](#)
+🔗 [View the deployed site](https://frontend-battle-iitb.vercel.app/)
 
 ---
 
